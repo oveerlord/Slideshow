@@ -1,10 +1,8 @@
 # Slideshow/اسلایدر
 
-<div dir='ltr'>
-[Main slider source is from w3schools.com](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+  [Main slider source is from w3schools.com](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 <br>
 I changed and added some codes, I'll change and add some other feature animations layer. and also this is a git practice to challenge my self with git and github :)
-</div>
 <hr>
 
 
