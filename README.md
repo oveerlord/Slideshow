@@ -7,9 +7,9 @@ I changed and added some codes, I'll change and add some other feature animation
 
 
 <div dir="rtl">
-  [منبع اصلی این پروژه](https://www.w3schools.com/howto/howto_js_slideshow.asp)  
-  <br>
-  یکسری از کد ها را تغییر دادم، بعدا ویژگی ها و انیمیشن های دیگه ای هم اضافه میکنم. درضمن این یه تمرین برای به چالش کشیدن خودم برای استفاده از گیت و گیت هاب هست 
+[منبع اصلی این پروژه](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+<br>
+<p>یکسری از کد ها را تغییر دادم، بعدا ویژگی ها و انیمیشن های دیگه ای هم اضافه میکنم. درضمن این یه تمرین برای به چالش کشیدن خودم برای استفاده از گیت و گیت هاب هست</p> 
 </div>
 
 
